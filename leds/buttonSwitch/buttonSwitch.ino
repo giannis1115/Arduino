@@ -26,6 +26,4 @@ void loop() {
     changeState();
     delay(200);
   }
-
-return 0 ;
 }
