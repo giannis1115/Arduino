@@ -1,2 +1,2 @@
 # Arduino
-Step to Step Arduino code for educational projects ! (Soon i will try to upload pictures from the circuits)
+Step by Step Arduino code for educational projects ! (Soon pictures will be included)
